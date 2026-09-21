@@ -1,0 +1,14 @@
+# Kunstnik — Maire Rästa
+
+> Kunstnik Maire Rästa creates minimalist yet expressive artworks emphasizing the dialogue between light and form.
+
+## Core Features / Products
+- [Minust](https://www.mairerasta.eu/#minust): Discover Maire Rästa's artistic philosophy and approach to design.
+- [Tööd](https://www.mairerasta.eu/#tood): Explore the collection of artworks crafted by Maire Rästa.
+
+## Contact and Support
+- [Kontakt](https://www.mairerasta.eu/#kontakt): Find contact information, including email and phone number for inquiries.
+- [E-post](mailto:maire.rasta@gmail.com): Reach out directly via email for collaboration or exhibition information. 
+- [Telefon](tel:+37254410017): Contact Maire Rästa by phone for immediate inquiries.
+- [Sotsiaalmeedia](https://www.instagram.com/mairerasta): Follow Maire Rästa on Instagram for updates on new works and exhibitions.
+- [Pood](https://maireart.eu): Visit the online store for purchasing artworks.
