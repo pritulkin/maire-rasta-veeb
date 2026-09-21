@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.mairerasta.eu/sitemap.xml
+LLMS: https://www.mairerasta.eu/llms.txt
